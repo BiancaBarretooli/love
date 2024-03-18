@@ -1,9 +1,5 @@
-//Nome e Pontos (variáveis)
 let userName = "LanaBanana01"
-let pontosXP = 2490
-
-// Estrt de Decisão
-let nivelDoHeroi;
+let pontosXP = "6049"
 
 if (pontosXP <1000) {
     nivelDoHeroi = "Ferro";
@@ -22,5 +18,5 @@ if (pontosXP <1000) {
 } else if (pontosXP >= 10001 && pontosXP ==10001){
     nivelDoHeroi = "Radiante"
 }
-console.log  (`Herói ${userName} está no level ${nivelDoHeroi}.`);
+console.log  (`A heroína ${userName} está no level ${nivelDoHeroi}.`);
 
